@@ -1,0 +1,6 @@
+{
+  "name": "node-directory-metadata-parser",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/metadata.js"
+}
